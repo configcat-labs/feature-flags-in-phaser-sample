@@ -1,0 +1,16 @@
+body,
+html {
+  margin: 0;
+  background-color: #d4feff;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: #d4feff;
+  font-family: Courier, monospace;
+  font-size: 46px;
+  font-weight: 900;
+  padding: 60px 0 30px;
+}
